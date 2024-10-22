@@ -1,5 +1,5 @@
 # Data-Scientist-Portfolio
-This repository is for the projects I have done on the [Internshala Placement Guarantee Course](https://trainings.internshala.com/data-science-placement-guarantee-course/?tracking_source=trainings-dropdown-placement-guarantee-courses)
+This repository is for the projects I have done in the [Internshala Placement Guarantee Course](https://trainings.internshala.com/data-science-placement-guarantee-course/?tracking_source=trainings-dropdown-placement-guarantee-courses)
 
 The program prepares me for a career as a Data Scientist by helping me learn:
 - Exploratory Data Analysis (EDA)
